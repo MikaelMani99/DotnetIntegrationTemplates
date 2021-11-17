@@ -1,0 +1,14 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Mikal Máni",
+    "classification": ["console"],
+    "identity": "Data.Collection.From.Rest.Api.Template",
+    "name": "Data collection from rest api template",
+    "shortName": "data-collection-from-rest-api-template",
+    "sourceName": "Data.Collection.From.Rest.Api.Template",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "preferNameDirectory": true
+}
